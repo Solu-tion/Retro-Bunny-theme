@@ -1,29 +1,25 @@
 {
-  "fonts": [
-    {
-      "name": "Minecraft Font",
-      "variants": [
-        {
-          "src": "https://cdn.discordapp.com/attachments/897862374789369866/1365417950667870280/MinecraftRegular-Bmg3.otf",
-          "weight": 400,
-          "style": "normal"
-        },
-        {
-          "src": "https://cdn.discordapp.com/attachments/897862374789369866/1365417949942517760/MinecraftBold-nMK1.otf",
-          "weight": 700,
-          "style": "normal"
-        },
-        {
-          "src": "https://cdn.discordapp.com/attachments/897862374789369866/1365417950290378783/MinecraftItalic-R8Mo.otf",
-          "weight": 400,
-          "style": "italic"
-        },
-        {
-          "src": "https://cdn.discordapp.com/attachments/897862374789369866/1365417949422157895/MinecraftBoldItalic-1y1e.otf",
-          "weight": 700,
-          "style": "italic"
-        }
-      ]
+    "spec": 1,
+    "name": "Minecraft Font",
+    "previewText": "Font from hit game minecraft",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Black.ttf?raw=1",
+        "ggsans-Bold": "https://cdn.discordapp.com/attachments/897862374789369866/1365417949942517760/MinecraftBold-nMK1.otf?ex=680d3c0f&is=680bea8f&hm=c58ae97563d5963a422daea7c477851d7eb540b877bb24620bef1a22fa7bf2d2&",
+        "ggsans-BoldItalic": "https://cdn.discordapp.com/attachments/897862374789369866/1365417949422157895/MinecraftBoldItalic-1y1e.otf?ex=680d3c0f&is=680bea8f&hm=c48ce6e7c66a80c16b74c530b71ad88595119d40fd73aab73fb4dcb071178fc4&",
+        "ggsans-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Black.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-BlackItalic.ttf?raw=1",
+        "ggsans-Medium": "https://cdn.discordapp.com/attachments/897862374789369866/1365417950667870280/MinecraftRegular-Bmg3.otf?ex=680d3c0f&is=680bea8f&hm=79e31bb207aa5b681cb15e930c49f337fa4e2f7ca20f31ed117eb42d159faa7e&",
+        "ggsans-MediumItalic": "https://cdn.discordapp.com/attachments/897862374789369866/1365417950290378783/MinecraftItalic-R8Mo.otf?ex=680d3c0f&is=680bea8f&hm=668e756465c070fc6612d9532bf8d3f646b5ea10bcf9e219167409e3bc1519a7&",
+        "ggsans-Normal": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSansMono-SemiBold.ttf?raw=1"
     }
-  ]
 }
